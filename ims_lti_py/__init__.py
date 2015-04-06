@@ -1,3 +1,5 @@
+__version__ = '0.6.1'
+
 # Classes
 from tool_config import ToolConfig
 from tool_consumer import ToolConsumer

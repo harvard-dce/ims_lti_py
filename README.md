@@ -28,6 +28,6 @@ Or, if you have setuptools, simply run `python setup.py install` to install the 
 TODO
 
 ## Testing
-ims-lti-py unit tests can be run with the [nose](http://readthedocs.org/docs/nose/en/latest/) Python library. Once installed, just run
+ims-lti-py unit tests can be run by executing
 
-    nosetests tests/
+    python setup.py test
