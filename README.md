@@ -31,3 +31,5 @@ TODO
 ims-lti-py unit tests can be run by executing
 
     python setup.py test
+
+Optionally, you can use [tox](https://tox.readthedocs.org/) with the provided `tox.ini` file

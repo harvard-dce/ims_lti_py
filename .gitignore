@@ -18,3 +18,7 @@ pip-log.txt
 
 # virtualenv
 venv
+
+# tox
+.eggs
+.tox
